@@ -29,8 +29,11 @@ To install the required dependencies, run:
 
 ```bash
 pip install -r requirements.txt
+```
 
-If using Google Colab, install the necessary packages inside the notebook:
+- If using Google Colab, install the necessary packages inside the notebook:
+
+```bash
 !pip install yfinance pandas numpy arch scikit-learn matplotlib seaborn ta tensorflow
 
 
