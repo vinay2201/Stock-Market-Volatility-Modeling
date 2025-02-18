@@ -94,9 +94,9 @@ If you're using Google Colab, you can upload the notebook and execute it directl
 🤝 Contributing
 We welcome contributions! If you’d like to:
 
-- Improve model performance,
-- Add new features or datasets,
-- Enhance visualization,
+- Improve model performance
+- Add new features or datasets
+- Enhance visualization
 
 Feel free to fork the repository and submit a pull request! 🚀
 
